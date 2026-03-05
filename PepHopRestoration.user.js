@@ -1,10 +1,12 @@
 // ==UserScript==
-// @name         PepHop Restoration - v1.4.0-RC
+// @name         PepHop Restoration
 // @version      1.4.0
 // @author       Community Restore
 // @match        *://pephop.ai/*
 // @run-at       document-start
 // @grant        none
+// @updateURL    https://github.com/squishy01/PepHopRestoration/raw/refs/heads/main/PepHopRestoration.user.js
+// @downloadURL  https://github.com/squishy01/PepHopRestoration/raw/refs/heads/main/PepHopRestoration.user.js
 // ==/UserScript==
 
 (function() {

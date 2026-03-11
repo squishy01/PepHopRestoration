@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         PepHop Restoration
 // @version      1.4.4a
-// @author       Community Restore
+// @author       Squish and friends
 // @match        *://pephop.ai/*
 // @run-at       document-start
 // @grant        none
